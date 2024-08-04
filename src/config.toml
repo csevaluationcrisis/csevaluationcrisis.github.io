@@ -1,0 +1,27 @@
+baseURL = 'https://csevaluationcrisis.github.io/'
+languageCode = 'en-us'
+title = 'cs6501: Evaluation Crisis in Computer Science'
+theme = "csfor"
+
+canonifyurls = true
+paginate = 3
+
+pygmentsUseClasses=true
+
+#disqusShortname = ""
+#googleAnalytics = ""
+
+[markup.goldmark.renderer]
+unsafe= true
+
+
+[params]
+author = ""
+shortTitle = "CS Evaluation Crisis"
+introDescription = "cs6501: Evaluation Crisis in Computer Science"
+fullTitle = "cs6501: Evaluation Crisis in Computer Science"
+university = "University of Virginia"
+semester = "Fall 2024"
+
+[social]
+

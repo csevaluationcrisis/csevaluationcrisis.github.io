@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cs6501: Evaluation Crisis in Computer Science</title>
+    <link>https://csevaluationcrisis.github.io/</link>
+    <description>Recent content on cs6501: Evaluation Crisis in Computer Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://csevaluationcrisis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Syllabus</title>
+      <link>https://csevaluationcrisis.github.io/syllabus/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://csevaluationcrisis.github.io/syllabus/</guid>
+      <description>UVA CS6501 Fall 2024&#xA;Evaluation Crisis?in Computer Science&#xA;Course Goals Over the past two decades, psychology, medicine, and other social sciences have recognized a replication crisis in their work and taken measures to improve the quality of their science. Experimental computer science, which includes nearly all work in computing systems and machine learning, uses different forms of evaluation which do not usually incorporate the complexity of human subjects, but still suffers from a similar crisis.</description>
+    </item>
+    <item>
+      <title>Welcome to the Seminar!</title>
+      <link>https://csevaluationcrisis.github.io/post/welcome/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://csevaluationcrisis.github.io/post/welcome/</guid>
+      <description>Welcome to cs6501: Evaluation Crisis in Computer Science!&#xA;This is the public course website for UVA&amp;rsquo;s cs6501 Fall 2024 seminar lead by David Evans.&#xA;Our first class meeting will be on Wednesday, August 28 (11:00am in Rice 340).&#xA;A preliminary syllabus is now available, and should give you a good idea what to expect in the seminar, although it is not yet finalized.&#xA;More material will be posted here as the beginning of the semester approaches.</description>
+    </item>
+  </channel>
+</rss>
